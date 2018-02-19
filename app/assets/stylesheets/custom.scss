@@ -120,32 +120,56 @@ ul {
 
 .email_field {
     padding-left: 0;
-    width: 80%;
+    width: 90%;
     height: 35px;
+    color: #919191;
     margin-bottom: -1;
+    background-image: url('user.png');
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding-left: 35px;
+    box-sizing: border-box;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 
   }
 
 .password_field {
     padding-left: 0;
-    width: 80%;
+    width: 90%;
     height: 35px;
+    color: #919191;
     margin-top: -1;
-    }
+    background-image: url('lock.png');
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding-left: 35px;
+    box-sizing: border-box;
 
+    }
 
 .password_confirmation_field {
     padding-left: 0;
-    width: 80%;
+    width: 90%;
     height: 35px;
-
-
+    color: #919191;
+    background-image: url('lock.png');
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding-left: 35px;
+    box-sizing: border-box;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
         }
+
+
 .button {
   background-color: #3779DD;
   color: white;
   height: 35px;
-  width: 82%;
+  width: 90%;
   border-radius: 5px;
   margin-top: 10px;
+  box-sizing: border-box;
+
   }
