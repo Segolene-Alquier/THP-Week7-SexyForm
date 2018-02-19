@@ -21,7 +21,7 @@ body {
   flex-direction: row;
   position: absolute;
   font-family: 'neovix basic';
-  background-image: url(fond1.jpg)
+  background: asset-data-url('fond1.jpg')
 }
 
 .center {
