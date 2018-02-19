@@ -1,0 +1,83 @@
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.all {
+  height: 100%;
+  width: 100%;
+  background-color: yellow;
+  position: absolute;
+  font-family: 'neovix basic';
+  background-image: url(fond1.jpg)
+}
+
+.center {
+  width: 70%;
+  height: 70%;
+  margin: auto;
+}
+
+.left {
+  width: 55%;
+  height: 100%;
+  box-sizing: border-box;
+  background-color: #3779DD;
+  float: left;
+  color: white;
+  border-top-left-radius: 3px;
+  padding-left: 30px;
+  vertical-align: middle;
+  opacity: 0.9;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+#barre {
+  height: 2px;
+  width: 125px;
+  background-color: #56C699;
+}
+
+.right-up {
+  width: 45%;
+  height: 75%;
+  box-sizing: border-box;
+  padding-left: 30px;
+  float: right;
+  background-color: white;
+  border-top-right-radius: 15px;
+}
+
+.right-bottom {
+  width: 45%;
+  height: 25%;
+  box-sizing: border-box;
+  background-color: #999DAE;
+  float: right;
+  text-align: center;
+  margin: auto;
+  color: white;
+  border-bottom-right-radius: 15px;
+}
+
+ul {
+  list-style: none;
+  line-height: 2;
+
+}
+
+.field {
+  width: 400px;
+}
+
+.actions {
+
+}
