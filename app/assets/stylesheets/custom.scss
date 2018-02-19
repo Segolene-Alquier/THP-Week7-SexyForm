@@ -38,6 +38,7 @@ body {
   float: left;
   color: white;
   padding-left: 30px;
+  padding-top: 20px;
   opacity: 0.9;
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
@@ -47,13 +48,17 @@ body {
   height: 1px;
   width: 100px;
   background-color: #56C699;
+  margin-top: 25px;
+  margin-bottom: 25px;
+
 }
 
 .right-up {
   width: 45%;
-  height: 75%;
+  height: 80%;
   box-sizing: border-box;
   padding-left: 30px;
+  padding-top: 35px;
   float: right;
   background-color: white;
   border-top-right-radius: 5px;
@@ -63,7 +68,7 @@ body {
 
 .right-bottom {
   width: 45%;
-  height: 25%;
+  height: 20%;
   box-sizing: border-box;
   background-color: #999DAE;
   float: right;
@@ -96,13 +101,36 @@ h3 {
 
 ul {
   list-style: none;
-  line-height: 2.5;
+  line-height: 3;
   font-family: 'Roboto', sans-serif;
   font-weight: 100;
   font-size: 11px;
   padding-left: 0;
-
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
 }
+
+#file_image {
+  background: asset-data-url('file.png');
+  background-position: 10px 10px;
+  padding-left: 35px;
+  background-repeat: no-repeat;
+}
+
+#student_image {
+  background: asset-data-url('student.png');
+  background-position: 10px 10px;
+  padding-left: 35px;
+  background-repeat: no-repeat;
+}
+
+#cloud_image {
+  background: asset-data-url('cloud.png');
+  background-position: 10px 10px;
+  padding-left: 35px;
+  background-repeat: no-repeat;
+}
+
 
 #connect {
   font-family: 'Roboto', sans-serif;
@@ -172,7 +200,8 @@ ul {
 
 
 .button {
-  background-color: #3779DD;
+  background-color: #337BE6
+;
   color: white;
   height: 35px;
   width: 90%;
