@@ -123,7 +123,6 @@ ul {
     width: 90%;
     height: 35px;
     color: #919191;
-    margin-bottom: -1;
     background-image: url('user.png');
     background-position: 10px 10px;
     background-repeat: no-repeat;
@@ -131,6 +130,12 @@ ul {
     box-sizing: border-box;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
+    outline: none;
+    border-top: 1px solid #C7C7C7;
+    border-right: 1px solid #C7C7C7;
+    border-bottom: 0px solid #C7C7C7;
+    border-left: 1px solid #C7C7C7;
+
 
   }
 
@@ -139,12 +144,17 @@ ul {
     width: 90%;
     height: 35px;
     color: #919191;
-    margin-top: -1;
     background-image: url('lock.png');
     background-position: 10px 10px;
     background-repeat: no-repeat;
     padding-left: 35px;
     box-sizing: border-box;
+    outline: none;
+    border: 1px solid #C7C7C7;
+    border-right: 1px solid #C7C7C7;
+    border-bottom: 0px solid #C7C7C7;
+    border-left: 1px solid #C7C7C7;
+
 
     }
 
@@ -160,6 +170,8 @@ ul {
     box-sizing: border-box;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
+    outline: none;
+    border: 1px solid #C7C7C7;
         }
 
 
