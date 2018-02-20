@@ -209,18 +209,25 @@ ul {
 
   //* LOGGED PAGE *//
 
-  #logged {
-    background-color: #3779DD;
-    border-radius: 5px;
-    box-sizing: border-box;
-    padding: 30px;
+#logged {
+  background-color: #3779DD;
+  border-radius: 5px;
+  box-sizing: border-box;
+  padding: 30px;
   }
 
-  #retour {
-    color: white;
-    background-color: #2C50AD;
-    width: 250px;
-    padding: 10px;
-    border-radius: 5px;
-    text-decoration: none;
+#text_logged {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  font-weight: 300;
+  font-size: 40px;
+}
+
+#retour {
+  color: white;
+  background-color: #2C50AD;
+  width: 250px;
+  padding: 10px;
+  border-radius: 5px;
+  text-decoration: none;
   }
