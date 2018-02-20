@@ -1,24 +1,6 @@
-# README
+# FORM MADE SEXY WITH CSS ONLY
+## (No bootstrap-cheating)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+You can sign up through the form and will then be redirected to a logged_in page, that has basically no interest except showing that a beginning of CRUD has been made and the app is functioning.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The goal of the exercice simply was to make a sexy-shiny form with CSS 💃
