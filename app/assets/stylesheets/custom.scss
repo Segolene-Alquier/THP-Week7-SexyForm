@@ -76,6 +76,7 @@ body {
   display: flex;
 }
 
+
 //* CONTENT *//
 
 h1 {
@@ -204,4 +205,22 @@ ul {
   border-radius: 5px;
   margin-top: 10px;
   box-sizing: border-box;
+  }
+
+  //* LOGGED PAGE *//
+
+  #logged {
+    background-color: #3779DD;
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding: 30px;
+  }
+
+  #retour {
+    color: white;
+    background-color: #2C50AD;
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
   }
