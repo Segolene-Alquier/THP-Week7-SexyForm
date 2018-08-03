@@ -4,11 +4,11 @@ You can sign up through the form and will then be redirected to a logged_in page
 
 The goal of the exercice simply was to make a sexy-shiny form with CSS 💃
 
-The sign-up form was based on this one: https://dribbble.com/shots/2008170-Uniform-Login
-
 ## The original
 
-![original](https://image.noelshack.com/fichiers/2018/31/5/1533303432-capture-d-ecran-2018-08-03-a-15-34-03.png){:height="36px" width="36px"}
+The sign-up form was based on this one: https://dribbble.com/shots/2008170-Uniform-Login
+
+![original](https://image.noelshack.com/fichiers/2018/31/5/1533303432-capture-d-ecran-2018-08-03-a-15-34-03.png)
 
 ## My copycat
 
