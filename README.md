@@ -9,7 +9,7 @@ The sign-up form was based on this one: https://dribbble.com/shots/2008170-Unifo
 
 ## The original
 
-![original](https://dribbble.com/shots/2008170-Uniform-Login/attachments/353810)
+![original](https://ibb.co/j4Ustz)
 
 ## My copycat
 
