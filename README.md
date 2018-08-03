@@ -8,7 +8,7 @@ The sign-up form was based on this one: https://dribbble.com/shots/2008170-Unifo
 
 ## The original
 
-![original](https://image.noelshack.com/fichiers/2018/31/5/1533303432-capture-d-ecran-2018-08-03-a-15-34-03.png)
+![original](https://image.noelshack.com/fichiers/2018/31/5/1533303432-capture-d-ecran-2018-08-03-a-15-34-03.png){width="500px"}
 
 ## My copycat
 
