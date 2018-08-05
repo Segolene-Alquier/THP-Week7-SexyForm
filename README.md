@@ -12,6 +12,6 @@ The sign-up form was based on this one: https://dribbble.com/shots/2008170-Unifo
 
 ## My copycat
 
-![copycat](https://nsa39.casimages.com/img/2018/08/05/180805072805406597.png)
+![copycat](https://nsa39.casimages.com/img/2018/08/05/180805073259783669.png)
 
 
